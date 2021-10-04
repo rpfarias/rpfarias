@@ -2,15 +2,15 @@
   
  
 
-<h2>Welcome to my GitHub,</2>
+<h2>Bem vindos ao meu GitHub,</2>
 
-<h4>I'm Rafael,  software engineer with 1 year of experience
- from Brasil, currently living in Vitória - ES  📍</h4>
+<h4>Eu sou Rafael,  software engineer com 1 ano de experiencia.
+ Morando em Vitória - ES  📍</h4>
  
 - 🔭 Estou em busca de uma oportunidade em Java
-- 🌱 Studying Angular and RestApi
+- 🌱 Estudando Angular e RestApi
 
-<h5>⚡ I'm also the father of a beautiful girl, fiance, music and travel lover! ✈⚡</h5>
+<h5>⚡ Eu também sou pai de uma linda garota, noivo, amante de música e viagens! ✈⚡</h5>
 
 <h2>Tech skills and abilities: <img aligh="left" alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
 
