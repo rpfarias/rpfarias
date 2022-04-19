@@ -8,7 +8,7 @@
  Morando em Vitória - ES  📍</h4>
  
 - 🔭 Estou em busca de uma oportunidade em Java
-- 🌱 Estudando Angular e RestApi
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <h5>⚡ Eu também sou pai de uma linda garota, noivo, amante de música e viagens! ✈⚡</h5>
 
