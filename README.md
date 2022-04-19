@@ -7,7 +7,6 @@
 <h4>Eu sou Rafael,  software engineer com 1 ano de experiencia.
  Morando em Vitória - ES  📍</h4>
  
-- 🔭 Estou em busca de uma oportunidade em Java
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <h5>⚡ Eu também sou pai de uma linda garota, noivo, amante de música e viagens! ✈⚡</h5>
