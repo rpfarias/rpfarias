@@ -4,7 +4,7 @@
 
 <h2>Bem vindos ao meu GitHub,</2>
 
-<h4>Eu sou Rafael,  software engineer com 1 ano de experiencia.
+<h4>Eu sou Rafael,  software engineer com 1.8 ano de experiencia.
  Morando em Vitória - ES  📍</h4>
  
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
