@@ -4,8 +4,8 @@
 
 <h2>Bem vindos ao meu GitHub,</2>
 
-<h4>Eu sou Rafael,  software engineer com 1.8 ano de experiencia.
- Morando em Vitória - ES  📍</h4>
+<h4>Eu sou Rafael,  software engineer com 3 anos de experiencia.
+ Morando em Camaçari - BA  📍</h4>
  
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
