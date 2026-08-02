@@ -80,17 +80,4 @@ $ cat off.txt
 
 ### `// 04` stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rpfarias&show_icons=true&hide_border=true&bg_color=0A0E0A&title_color=39FF88&icon_color=FFB000&text_color=C8F0D4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpfarias&layout=compact&hide_border=true&bg_color=0A0E0A&title_color=39FF88&text_color=C8F0D4" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpfarias&hide_border=true&background=0A0E0A&stroke=1F3324&ring=39FF88&fire=FFB000&currStreakLabel=39FF88&sideLabels=C8F0D4&dates=6A9A7A&currStreakNum=C8F0D4&sideNums=C8F0D4" alt="streak" />
-
-</div>
-
-<div align="center">
-<sub>rafael@rpfarias:~$ <span>_</span></sub>
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=rpfarias&hide_border=true&background=0A0E0A&stroke=1F3324&ring=39FF88&fire=FFB000&currStreakLabel=39FF88&sideLabels=C8F0D4&dates=6A9A7A&currStreakNum=C8F0D4&sideNums=C8F0D4" alt="streak" /> </div> <div align="center"> <sub>rafael farias:~$ <span>_</span></sub> </div>
