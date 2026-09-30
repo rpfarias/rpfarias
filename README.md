@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=680&lines=%24+whoami;Rafael+Farias+%E2%80%94+Engenheiro+de+Software;Desenvolvedor+Java+Full+Stack;booting+portfolio..." alt="Rafael Farias" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=680&lines=%24+whoiam;Rafael+Farias+%E2%80%94+Engenheiro+de+Software;Desenvolvedor+Java+Full+Stack;booting+portfolio..." alt="Rafael Farias" />
 
 </div>
 
