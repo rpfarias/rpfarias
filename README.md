@@ -8,10 +8,10 @@
 
 ---
 
-### `// 01` whoami
+### `// 01` whoiam
 
 ```bash
-$ whoami
+$ whoiam
 > Rafael Farias — Engenheiro de Software
 > Java Full Stack · foco em backend e mercado financeiro
 > 📍 Camaçari, BA — Brasil
